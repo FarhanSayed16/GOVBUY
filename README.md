@@ -46,7 +46,7 @@
 
 The platform addresses critical gaps in existing government procurement systems — including fragmented workflows, lack of transparency, manual bottlenecks, and limited vendor accessibility — by providing a **unified, transparent, and inclusive** digital ecosystem.
 
-> 🌐 **Live Demo:** [Pending Deployment]
+> 🌐 **Live Demo:** [https://govbuy.vercel.app](https://govbuy.vercel.app)
 >
 > 📺 **Video Overview:** [Watch on YouTube](https://youtu.be/OTHmNhkz0Pg?si=GzCftl-rzSWd7JUh)
 
@@ -432,7 +432,7 @@ GovBuy implements enterprise-grade security measures:
 | 🖼️ System Screenshots | [`docs/images/System-Images/`](docs/images/System-Images/) |
 | 📊 Architecture Diagrams | [`docs/images/oursolution/`](docs/images/oursolution/) |
 | 📰 Real-World Context | [`docs/images/realissuesandnews/`](docs/images/realissuesandnews/) |
-| 🌐 Live Demo | [Pending Deployment] |
+| 🌐 Live Demo | [govbuy.vercel.app](https://govbuy.vercel.app) |
 | 📺 YouTube Overview | [Watch Video](https://youtu.be/OTHmNhkz0Pg?si=GzCftl-rzSWd7JUh) |
 | 📐 ArchiMate Models (Google Drive) | [View Models](https://drive.google.com/drive/folders/1d8bCY0jqjkDudCG9K9WyUtWRbDi0hEEt?usp=sharing) |
 
@@ -503,7 +503,7 @@ This project was developed as part of an academic and competitive initiative und
 
 *Conceptualized, Architected, and Developed for The Open Group — INITIATE Work Group International Competition*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Pending_Deployment-0052CC?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-govbuy.vercel.app-0052CC?style=for-the-badge)](https://govbuy.vercel.app)
 [![YouTube](https://img.shields.io/badge/📺_Watch_Overview-YouTube-FF0000?style=for-the-badge)](https://youtu.be/OTHmNhkz0Pg?si=GzCftl-rzSWd7JUh)
 
 </div>

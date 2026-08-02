@@ -915,7 +915,7 @@ Architecture is **not static** ; without change management, the platform can **b
 
 **<u>https://drive.google.com/drive/folders/1d8bCY0jqjkDudCG9K9WyUtWRbDi0hEEt?usp=shari ng</u>** 
 
-**To check out the full working of the website, please visit the live deployed URL as we have hosted the website prototype for real-time testing.** 
+**To check out the full working of the website, please visit to :- https://govbuy.vercel.app as we have hosted the website prototype for real-time testing.** 
 
 **Admin login credentials:-  Email : farhan@gmail.com | Password:- 123** 
 
